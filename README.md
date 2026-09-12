@@ -39,7 +39,7 @@ Sou **Bruno Oliveira**, Engenheiro de Qualidade e Processos, atualmente expandin
   <a href="https://www.linkedin.com/in/bruno-oliveira-ba60496b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="SEU_LINK_DO_DISCORD_AQUI" target="_blank">
+  <a href="https://discord.gg/9h7twKPk49" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:oliveirabp90@gmail.com">
