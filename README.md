@@ -36,7 +36,7 @@ Sou **Bruno Oliveira**, Engenheiro de Qualidade e Processos, atualmente expandin
 ### 📫 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/bruno-oliveira-ba" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-oliveira-ba60496b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="SEU_LINK_DO_DISCORD_AQUI" target="_blank">
