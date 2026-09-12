@@ -28,7 +28,7 @@ Sou **Bruno Oliveira**, Engenheiro de Qualidade e Processos, atualmente expandin
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oliveirabp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ Sou **Bruno Oliveira**, Engenheiro de Qualidade e Processos, atualmente expandin
   <a href="https://www.linkedin.com/in/bruno-oliveira-ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="COLE_SEU_LINK_DO_DISCORD_AQUI" target="_blank">
+  <a href="SEU_LINK_DO_DISCORD_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:oliveirabp90@gmail.com">
